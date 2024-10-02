@@ -51,16 +51,21 @@ layout: default
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
       <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
+        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">Latest posts</a>
       </h2>
       {% include latest_posts.liquid %}
     {% endif %}
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
-      <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
-      </h2>
+
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <h2 style="margin: 0;">
+          <a href="{{ '/researches/' | relative_url }}" style="color: inherit">Selected researches</a>
+        </h2>
+        <a href="{{ '/researches/' | relative_url }}" style="color: inherit; font-size: 18px; margin-right: 10px"> &gt; Researches</a>
+    </div>
+
       {% include selected_papers.liquid %}
     {% endif %}
 
