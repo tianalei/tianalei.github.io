@@ -5,7 +5,9 @@ title: Researches
 description: This page includes publications (including forthcoming ones) and other research-related experiences
 nav: true
 nav_order: 2
+
 show_projects: true
+display_categories: [Main contributor, Participant]
 horizontal: false
 ---
 
@@ -24,8 +26,8 @@ horizontal: false
 
 <!-- _pages/projects.md -->
 {% if page.show_projects %}
-    <div style="display: flex; justify-content: space-between; align-items: center;">
-        <h3 style="margin-bottom: 0.5em; margin-left: 0.2em;">Projects</h3>
-    </div>
-    {% include projects_layout.liquid %}
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <h3 style="margin-bottom: 0.5em; margin-left: 0.2em;">Projects</h3>
+</div>
+{% include projects_layout.liquid %}
 {% endif %}
