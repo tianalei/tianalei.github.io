@@ -16,7 +16,7 @@ selected_projects: true
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a final-year MSc student in GIScience at [State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIEMARS)](http://www.lmars.whu.edu.cn/en/), [Wuhan University](https://en.whu.edu.cn/), advised by [Prof. Huayi Wu](https://scholar.google.com.hk/citations?user=eaEiXv8AAAAJ) and [Prof. Xuefeng Guan](https://scholar.google.co.jp/citations?user=4pmssaUAAAAJ). Before this, I received my bachelor's degree from [NJUPT](https://www.njupt.edu.cn/en/) in 2022. 
+I am a final-year MSc student in GIScience at [LIEMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan University](https://en.whu.edu.cn/), advised by [Prof. Huayi Wu](https://scholar.google.com.hk/citations?user=eaEiXv8AAAAJ) and [Prof. Xuefeng Guan](https://scholar.google.co.jp/citations?user=4pmssaUAAAAJ). Before this, I received my bachelor's degree from [NJUPT](https://www.njupt.edu.cn/en/) in 2022. 
 
 My research interests include:
 
