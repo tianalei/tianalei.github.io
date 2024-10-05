@@ -19,4 +19,5 @@ nav_order: 2
 
 </div>
 
+{% include projects.liquid %}
 
