@@ -12,8 +12,10 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-show_projects: true
 social: false # includes social icons at the bottom of the page
+
+show_projects: true
+horizontal: false
 ---
 
 I am a final-year MSc student in GIScience at [LIEMARS](http://www.lmars.whu.edu.cn/en/), [Wuhan University](https://en.whu.edu.cn/), advised by [Prof. Huayi Wu](https://scholar.google.com.hk/citations?user=eaEiXv8AAAAJ) and [Prof. Xuefeng Guan](https://scholar.google.co.jp/citations?user=4pmssaUAAAAJ). Before this, I received my bachelor's degree from [NJUPT](https://www.njupt.edu.cn/en/) in 2022. 
