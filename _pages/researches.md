@@ -24,6 +24,9 @@ horizontal: false
 
 <!-- _pages/projects.md -->
 {% if page.show_projects %}
-   {% include projects_layout.liquid %}
+<div style="display: flex; justify-content: space-between; align-items: center;"></div>
+    <h3 style="margin: 0;"> Projects </h3>
+</div>
+{% include projects_layout.liquid %}
 {% endif %}
 
