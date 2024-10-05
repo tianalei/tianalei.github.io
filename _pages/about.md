@@ -15,6 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 show_projects: true
+display_categories: [Main contributor, Participant]
 horizontal: false
 ---
 
