@@ -6,4 +6,5 @@ description: >
     Addressed the industrial challenge of low accuracy in building-level indoor user positioning using 5G data.
 importance: 1
 related_publications: false
+category: Main contributor
 ---
