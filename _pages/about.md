@@ -28,4 +28,4 @@ My research interests include:
 - trajectory representation learning
 - intelligent transportation systems
 
-I am actively seeking PhD opportunities in related fields starting in Fall 2025.
+I am actively seeking PhD or Research Assistant opportunities in related fields.

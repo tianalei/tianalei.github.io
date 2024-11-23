@@ -179,8 +179,12 @@ ul.task-list input[type="checkbox"] {
   }
 
   .card-body {
-    padding: 1.25rem 1.25rem 1.25rem 1.25rem;
+    padding: 0.2rem 0.8rem 0.8rem 0.8rem;
   }
+}
+
+p.card-text {
+  margin-bottom: 0.2rem;
 }
 
 // Citation
@@ -654,6 +658,17 @@ footer.sticky-bottom {
   }
 }
 
+.badges {
+  .badge {
+    margin-right: 0.5rem;
+    padding: 0.4em 0.8em;
+    font-size: 0.75rem;
+    font-weight: 600;
+    border: 1px solid #dee2e6;
+    color: var(--global-text-color-light) !important;
+  }
+}
+
 // Publications
 
 .publications {
@@ -668,7 +683,7 @@ footer.sticky-bottom {
   }
 
   h2 {
-    margin-bottom: 1rem;
+    margin-bottom: 0rem;
 
     span {
       font-size: 1.5rem;
@@ -834,7 +849,10 @@ footer.sticky-bottom {
 
 // Rouge Color Customization
 figure.highlight {
-  margin: 0 0 1rem;
+  margin: 0 0 0.2rem;
+}
+figure {
+  margin: 0 0 0.3rem;
 }
 
 pre {
