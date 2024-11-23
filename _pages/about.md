@@ -2,7 +2,7 @@
 layout: about
 title: About me
 permalink: /
-subtitle: <a href='mailto:yutianlei01@outlook.com'><i class="fa-solid fa-envelope"></i></a> | <a href='https://github.com/Luciatl'><i class="fa-brands fa-github"></i></a> | <a href='https://x.com/Tiana_ov0'><i class="fa-brands fa-square-twitter"></i></a> | <a href='https://www.linkedin.com/in/yutian-lei-23161616b'><i class="fa-brands fa-linkedin"></i></a> · <a href='https://luciatl.github.io/feed.xml'><i class="fa-solid fa-square-rss"></i></a>
+subtitle: <a href='mailto:yutianlei01@outlook.com'><i class="fa-solid fa-envelope"></i></a> | <a href='https://github.com/tianalei'><i class="fa-brands fa-github"></i></a> | <a href='https://x.com/Tiana_ov0'><i class="fa-brands fa-square-twitter"></i></a> | <a href='https://www.linkedin.com/in/yutian-lei-23161616b'><i class="fa-brands fa-linkedin"></i></a> · <a href='https://tianalei.github.io/feed.xml'><i class="fa-solid fa-square-rss"></i></a>
 
 profile:
   align: right
