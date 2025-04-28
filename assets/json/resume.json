@@ -46,6 +46,15 @@
       "courses": ["Remote Sensing Image Processing", "Introduction to Data Mining", "Satellite Navigation System", "Foundation and Application of MATLAB",  "GIS Software Engineering"]
     }
   ],
+  "publications":[
+    {
+      "name": "MVCF-TMI: A Travel Mode Identification Framework via Contrastive Fusion of Multi-View Trajectory Representations",
+      "publisher": "ISPRS International Journal of Geo-Information",
+      "releaseDate": "2025-04-11",
+      "url": "https://www.mdpi.com/2220-9964/14/4/169",
+      "summary": "This paper proposes a novel travel mode identification framework that uses multi-view contrastive learning to align spatial and kinematic features of GPS trajectories in a shared subspace, improving both accuracy and generalization."
+    }
+  ],
   "awards": [
     {
       "title": "Advanced Individual Award of Graduate Innovation and Practice Competition",
@@ -76,13 +85,6 @@
       "title": "Second-Class Scholarship",
       "date": "2019",
       "awarder": "Nanjing University of Posts and Telecommunications"
-    }
-  ],
-  "publications": [
-    {
-      "name": "A Travel Mode Identification Framework via Contrastive Fusion of Multi-view Trajectory Representations",
-      "publisher": "Unpublished Manuscript",
-      "releaseDate": "2025"
     }
   ],
   "skills": [

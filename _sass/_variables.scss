@@ -50,3 +50,8 @@ $back-to-top-right: 30px;
 $back-to-top-diameter: 40px;
 $back-to-top-height: $back-to-top-diameter;
 $back-to-top-width: $back-to-top-diameter;
+
+// Global Font
+$global-font-family: 'Lato', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !default;
+$heading-font-family: 'Tagesschrift', sans-serif, BlinkMacSystemFont !default;
+$mono-font-family: 'SFMono-Regular', Consolas, "Liberation Mono", Menlo, Courier, monospace !default;
